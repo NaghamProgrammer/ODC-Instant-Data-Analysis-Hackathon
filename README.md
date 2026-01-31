@@ -1,4 +1,4 @@
-# 🏡 ODC Instant Data Analysis Hackathon  
+# 🏡 ODC & Instant Data Analysis Hackathon  
 ## Airbnb Prices in European Cities
 
 **Project for ODC / Instant Data Analysis Hackathon**  
@@ -85,7 +85,7 @@ This repository contains the work our team completed during the hackathon. We co
 ![Airbnb Dashboard 1 - Tableau](images/Airbnb_Dashboard1_Tableau.png)  
 ![Airbnb Dashboard 2 - Tableau](images/Airbnb_Dashboard2_Tableau.png)
 
-#### 📊 Other dashboard screenshots
+#### 📊 PowerBi dashboards (screenshots)
 ![Home dashboard](images/home.PNG)  
 ![City view](images/city.PNG)  
 ![Country view 1](images/country1.PNG)  
